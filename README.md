@@ -1,7 +1,6 @@
 # TPS5430 Buck Converter
 
-A configurable step-down converter built around the Texas Instruments **TPS5430** (3 A, 500 kHz, non-synchronous buck). The output voltage is selected with a solder bridge. Designed in **KiCad** as a 2-layer board, with JLCPCB-ready manufacturing and assembly files.
-
+A configurable step-down converter built around the Texas Instruments **TPS5430** (3 A, 500 kHz, non-synchronous buck). The output voltage is selected with a solder bridge. Designed in **KiCad** as a 2-layer board.
 ![3D render](Docs/TPS5430_3drender.png)
 
 ## Features
