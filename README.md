@@ -19,13 +19,13 @@ A configurable step-down converter built around the Texas Instruments **TPS5430*
 | Parameter | Value |
 |---|---|
 | Controller | TPS5430 |
-| Input voltage | 5.5 V to 36 V (limited per output voltage, see below) |
-| Output voltage | 1.8 V / 3.3 V / 5 V / 12 V (solder bridge) |
-| Max load current | up to 3 A [confirm against your inductor and thermal limits] |
+| Input voltage | 5.5 V to 36 V |
+| Output voltage | 1.8 V / 3.3 V / 5 V / 12 V |
+| Max load current | up to 3 A |
 | Switching frequency | 500 kHz |
 | Input protection | AO3401A reverse polarity, 3 A hold / 6 A trip polyfuse |
-| PCB | 2-layer, [thickness / copper weight] |
-| Tools | KiCad [version], LTspice |
+| PCB | 2-layer |
+| Tools | KiCad, LTspice |
 
 ### Input voltage limits per output
 
